@@ -1,0 +1,16 @@
+{
+  "assetBundles": [
+    {
+      "name": "bundle1",
+      "url": "https://example.com/bundle1",
+      "version": "1.0",
+      "dependencies": ["bundle2"]
+    },
+    {
+      "name": "bundle2",
+      "url": "https://example.com/bundle2",
+      "version": "1.2",
+      "dependencies": []
+    }
+  ]
+}
