@@ -2,7 +2,7 @@
   "assetBundles": [
     {
       "name": "bundle1",
-      "url": "https://raw..githubusercontent.com/dnoparker/MyFiles/master/dlc1",
+      "url": "https://raw.githubusercontent.com/dnoparker/MyFiles/master/dlc1",
       "version": "1.0",
       "dependencies": []
     },
