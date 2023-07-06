@@ -4,13 +4,7 @@
       "name": "bundle1",
       "url": "https://github.com/dnoparker/MyFiles/blob/master/dlc1?raw=true",
       "version": "1.0",
-      "dependencies": ["bundle2"]
-    },
-    {
-      "name": "bundle2",
-      "url": "https://example.com/bundle2",
-      "version": "1.2",
       "dependencies": []
-    }
+    },
   ]
 }
